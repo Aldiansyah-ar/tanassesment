@@ -1,0 +1,11 @@
+customer_id,name,email,phone,join_date,total_purchases
+CUS123,JohnDoe,john.doe@email.com,+1234567890,2023-01-15,1500.50
+CUS124,JaneSmith,jane.smith@email,+9876543210,2023-02-01,2500.75
+CUS125,BobJohnson,bob@email.com,123-456-7890,2023-03-15,750.25
+CUS126,AliceBrown,alice@email.com,+1234567891,,3000.00
+CUS127,CharlieWilson,,+1234567892,2023-05-01,0
+CUS128,DavidLee,david@email.com,invalid_phone,2023-06-15,500.00
+CUS129,EvaGarcia,eva@email.com,+1234567893,2023/07/01,750.25
+CUS129,EvaGarcia,different@email.com,+1234567894,2023-07-01,1000.00
+CUS131,FrankWilson,frank@email.com,+1234567895,2023-08-15,-250.00
+CUS132,GraceTaylor,grace@email.com,+1234567896,future_date,2000.00

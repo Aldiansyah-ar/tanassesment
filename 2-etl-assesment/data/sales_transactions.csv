@@ -1,0 +1,11 @@
+transaction_id,transaction_date,customer_id,product_name,quantity,unit_price,total_amount,payment_method,status
+TX001,2023-12-01 09:15:00,CUS123,Laptop,2,1500.00,3000.00,CREDIT,completed
+TX002,2023-12-01 10:30:00,CUS124,Monitor,1,75.25,75.25,cash,completed
+TX003,2023/12/01,CUS125,Keyboard,3,1200.75,3602.25,DEBIT,pending
+TX004,,CUS126,Mouse,2,500.00,1000.00,CASH,completed
+TX005,2023-12-01 14:45:00,,Laptop,1,750.25,750.25,credit,completed
+TX001,2023-12-01 15:00:00,CUS128,Monitor,3,300.00,900.00,DEBIT,completed
+,2023-12-01 15:30:00,CUS129,Keyboard,1,450.75,450.75,CASH,completed
+TX007,2023-12-01 16:00:00,INVALID,Mouse,2,600.50,-1201.00,UNKNOWN,pending
+TX008,2023-12-01 16:30:00,CUS131,Laptop,5,200.00,1000.00,CREDIT,completed
+TX009,invalid_date,CUS132,Monitor,0,800.25,800.25,DEBIT,completed

@@ -1,0 +1,5 @@
+transaction_id,transaction_date,customer_id,product_name,quantity,unit_price,total_amount,payment_method,status
+TX001,2023-12-01 09:15:00,CUS123,Laptop,2,1500.00,3000.00,CREDIT,completed
+TX002,2023-12-01 10:30:00,CUS124,Monitor,1,75.25,75.25,CASH,completed
+TX003,2023-12-01 00:00:00,CUS125,Keyboard,3,1200.75,3602.25,DEBIT,pending
+TX008,2023-12-01 16:30:00,CUS131,Laptop,5,200.00,1000.00,CREDIT,completed
