@@ -18,7 +18,7 @@ Jika Anda ingin menambahkan projek ini di komputer Anda sendiri, Anda bisa melak
 1. Clone repositori ini
 
 ```
-git clone https://github.com/satyawikananda/berita-indo-api.git
+git clone https://github.com/Aldiansyah-ar/tanassesment
 ```
 
 2. Buat virtual environment
@@ -38,7 +38,8 @@ env\Scripts\activate.bat
 ```
 pip install -r requirements.txt
 ```
-> Sebelum mengeksekusi program saya, arahkan file location di dalam terminal ke dalam folder lokasi file yang ingin Anda eksekusi
+> Sebelum mengeksekusi program saya, arahkan file location di dalam terminal ke dalam folder lokasi file yang ingin Anda eksekusi.
+
 > Untuk mengeksekusi program saya, Anda bisa menggunakan perintah `python nama_file.py` di dalam terminal.
 
 ## Time Spent
@@ -48,4 +49,3 @@ Saya mengerjakan Data Engineer Assesment selama 2 hari.
 ## Video Link
 
 Link video penjelasan dari Data Engineer Assesment saya
-- 
