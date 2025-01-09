@@ -2,7 +2,7 @@
 
 ## Overview
 
-ETL Assesment merupakan bagian kedua Data Enginner Assesment. Tugas dalam ETL Assesment, melakukan proses pembersihan data dan input data ke dalam database. Data input dan output disimpan di dalam folder './data'. Proses pembersihan dan input data ke dalam database menggunakan file Python di dalam folder './src' dan error logs di dalam folder './logs'.
+ETL Assesment merupakan bagian kedua Data Enginner Assesment. ETL Assesment berisi tugas proses pembersihan data dan input data ke dalam database. Data input dan output disimpan di dalam folder './data'. Proses pembersihan dan input data ke dalam database menggunakan file Python di dalam folder './src' dan error logs di dalam folder './logs'.
 
 ## Project Structure
 

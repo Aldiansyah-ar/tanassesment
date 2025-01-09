@@ -2,7 +2,7 @@
 
 ## Overview
 
-Data Engineer Technical Assesment terdiri dari 3 bagian yakni SQL Assesment, ETL Assesment dan Visualization. Bagian SQL Assesment dilakukan query dari database dan menampilkan hasil query. Bagian ETL Assesment dilakukan proses pembersihan dan input dataset ke dalam database. Bagian Visualization dilakukan proses visualisasi dataset yang diperoleh dari SQL Assesment dan ETL Assesment.
+Data Engineer Technical Assesment terdiri dari 3 bagian yakni SQL Assesment, ETL Assesment dan Visualization. Bagian SQL Assesment berisi tugas query dari database dan menampilkan hasil query. Bagian ETL Assesment berisi tugas proses pembersihan dan input dataset ke dalam database. Bagian Visualization berisi tugas visualisasi dataset yang diperoleh dari SQL Assesment dan ETL Assesment.
 
 ## Tools Used
 
@@ -48,4 +48,4 @@ Saya mengerjakan Data Engineer Assesment selama 2 hari.
 
 ## Video Link
 
-Link video penjelasan dari Data Engineer Assesment saya
+[Link video penjelasan dari Data Engineer Assesment saya](https://youtu.be/3WfCC1YsXz0)
